@@ -1,22 +1,22 @@
 {
    "Ads":[
       {
-         "select_main_ads":"FALSE",
-         "select_backup_ads":"FALSE",
-         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
-         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-         "main_ads_reward":"ca-app-pub-3940256099942544/5224354917",
-         "backup_ads_banner":"",
-         "backup_ads_intertitial":"",
+         "select_main_ads":"APPLOVIN-D",
+         "select_backup_ads":"APPLOVIN-M",
+         "main_ads_banner":"",
+         "main_ads_intertitial":"",
+         "main_ads_reward":"",
+         "backup_ads_banner":"89b9d48abd36c680",
+         "backup_ads_intertitial":"ef7a7291ce68694c",
          "backup_ads_reward":"",
-         "interval_intertitial":5,
+         "interval_intertitial":2,
          "initialize_sdk":"",
          "initialize_sdk_backup_ads":"",
-         "high_paying_keyword_1":"",
-         "high_paying_keyword_2":"",
-         "high_paying_keyword_3":"",
-         "high_paying_keyword_4":"",
-         "high_paying_keyword_5":"",
+         "high_paying_keyword_1": "Forex",
+         "high_paying_keyword_2": "Insurance",
+         "high_paying_keyword_3": "Binary Option",
+         "high_paying_keyword_4": "Money",
+         "high_paying_keyword_5": "Trading Forex",
          "status_app":"0",
          "link_redirect":"https://"
       }
@@ -201,6 +201,420 @@
       {
          "name_skin":"Soldier Girl ",
          "install":"https://archive.org/download/army037/army045.png"
+      },
+      {
+         "name_skin":"Salem Army Of Two ",
+         "install":"https://archive.org/download/army037/army046.png"
+      },
+      {
+         "name_skin":"Female Soldier ",
+         "install":"https://archive.org/download/army037/army047.png"
+      },
+      {
+         "name_skin":"Female Soldierreworked ",
+         "install":"https://archive.org/download/army037/army048.png"
+      },
+      {
+         "name_skin":"Soldier ",
+         "install":"https://archive.org/download/army037/army049.png"
+      },
+      {
+         "name_skin":"Soldier Mode ",
+         "install":"https://archive.org/download/army037/army050.png"
+      },
+      {
+         "name_skin":"French Revolutionary Soldier ",
+         "install":"https://archive.org/download/army037/army051.png"
+      },
+      {
+         "name_skin":"French Soldier ",
+         "install":"https://archive.org/download/army037/army052.png"
+      },
+      {
+         "name_skin":"Full Protection Military Uniform ",
+         "install":"https://archive.org/download/army037/army053.png"
+      },
+      {
+         "name_skin":"Fully Geared Fbi ",
+         "install":"https://archive.org/download/army037/army054.png"
+      },
+      {
+         "name_skin":"Generic Swat Agent ",
+         "install":"https://archive.org/download/army037/army055.png"
+      },
+      {
+         "name_skin":"German Camouflage Soldier ",
+         "install":"https://archive.org/download/army037/army056.png"
+      },
+      {
+         "name_skin":"German Camouflage Soldier With Red Beret ",
+         "install":"https://archive.org/download/army037/army057.png"
+      },
+      {
+         "name_skin":"German Wwide Soldier ",
+         "install":"https://archive.org/download/army037/army058.png"
+      },
+      {
+         "name_skin":"Ghillie Suit ",
+         "install":"https://archive.org/download/army037/army059.png"
+      },
+      {
+         "name_skin":"Green Jungle Camo Cyborg",
+         "install":"https://archive.org/download/army037/army060.png"
+      },
+      {
+         "name_skin":"Hammer Down ",
+         "install":"https://archive.org/download/army037/army061.png"
+      },
+      {
+         "name_skin":"Improved Napoleon ",
+         "install":"https://archive.org/download/army037/army062.png"
+      },
+      {
+         "name_skin":"Infanteria De Marina",
+         "install":"https://archive.org/download/army037/army063.png"
+      },
+      {
+         "name_skin":"Italian Army ",
+         "install":"https://archive.org/download/army037/army064.png"
+      },
+      {
+         "name_skin":"Jungle Soldier ",
+         "install":"https://archive.org/download/army037/army065.png"
+      },
+      {
+         "name_skin":"Lost Soldier ",
+         "install":"https://archive.org/download/army037/army066.png"
+      },
+      {
+         "name_skin":"Ltu Figter ",
+         "install":"https://archive.org/download/army037/army067.png"
+      },
+      {
+         "name_skin":"Malagasy Soldier ",
+         "install":"https://archive.org/download/army037/army068.png"
+      },
+      {
+         "name_skin":"American Soldier Garb ",
+         "install":"https://archive.org/download/army037/army069.png"
+      },
+      {
+         "name_skin":"Mexican Army ",
+         "install":"https://archive.org/download/army037/army070.png"
+      },
+      {
+         "name_skin":"Mexican Army Desert Soldier ",
+         "install":"https://archive.org/download/army037/army071.png"
+      },
+      {
+         "name_skin":"Mexican Army Special Forces ",
+         "install":"https://archive.org/download/army037/army072.png"
+      },
+      {
+         "name_skin":"Mexican Navy",
+         "install":"https://archive.org/download/army037/army073.png"
+      },
+      {
+         "name_skin":"Military",
+         "install":"https://archive.org/download/army037/army074.png"
+      },
+      {
+         "name_skin":"Military Bob ",
+         "install":"https://archive.org/download/army037/army075.png"
+      },
+      {
+         "name_skin":"Military General ",
+         "install":"https://archive.org/download/army037/army076.png"
+      },
+      {
+         "name_skin":"Military General Vietnam ",
+         "install":"https://archive.org/download/army037/army077.png"
+      },
+      {
+         "name_skin":"Military Panda ",
+         "install":"https://archive.org/download/army037/army078.png"
+      },
+      {
+         "name_skin":"Modern Soldier ",
+         "install":"https://archive.org/download/army037/army079.png"
+      },
+      {
+         "name_skin":"Multicam Tropic Uniform ",
+         "install":"https://archive.org/download/army037/army080.png"
+      },
+      {
+         "name_skin":"Multicam Uniform ",
+         "install":"https://archive.org/download/army037/army081.png"
+      },
+      {
+         "name_skin":"Spart General",
+         "install":"https://archive.org/download/army037/army082.png"
+      },
+      {
+         "name_skin":"Panda Military Unifor ",
+         "install":"https://archive.org/download/army037/army083.png"
+      },
+      {
+         "name_skin":"Pink Army General ",
+         "install":"https://archive.org/download/army037/army084.png"
+      },
+      {
+         "name_skin":"Prussian Soldier ",
+         "install":"https://archive.org/download/army037/army085.png"
+      },
+      {
+         "name_skin":"Raccoon Boy Towny Nation Military ",
+         "install":"https://archive.org/download/army037/army086.png"
+      },
+      {
+         "name_skin":"Red Right Hand ",
+         "install":"https://archive.org/download/army037/army087.png"
+      },
+      {
+         "name_skin":"Army Soldier ",
+         "install":"https://archive.org/download/army037/army088.png"
+      },
+      {
+         "name_skin":"Army Swat ",
+         "install":"https://archive.org/download/army037/army089.png"
+      },
+      {
+         "name_skin":"Roman Soldier ",
+         "install":"https://archive.org/download/army037/army090.png"
+      },
+      {
+         "name_skin":"Russian Imperial Soldier",
+         "install":"https://archive.org/download/army037/army091.png"
+      },
+      {
+         "name_skin":"Russian Soldier ",
+         "install":"https://archive.org/download/army037/army092.png"
+      },
+      {
+         "name_skin":"Russian Wwide Soldier ",
+         "install":"https://archive.org/download/army037/army093.png"
+      },
+      {
+         "name_skin":"Sandahar Army Soldier ",
+         "install":"https://archive.org/download/army037/army094.png"
+      },
+      {
+         "name_skin":"Military Devision Stone ",
+         "install":"https://archive.org/download/army037/army095.png"
+      },
+      {
+         "name_skin":"Security Girl ",
+         "install":"https://archive.org/download/army037/army096.png"
+      },
+      {
+         "name_skin":"Security Guy ",
+         "install":"https://archive.org/download/army037/army097.png"
+      },
+      {
+         "name_skin":"Serbian Officer ",
+         "install":"https://archive.org/download/army037/army098.png"
+      },
+      {
+         "name_skin":"Silverblade Foot Soldier",
+         "install":"https://archive.org/download/army037/army099.png"
+      },
+      {
+         "name_skin":"Skeleton Sergeant ",
+         "install":"https://archive.org/download/army037/army100.png"
+      },
+      {
+         "name_skin":"Skin For Girlfriend ",
+         "install":"https://archive.org/download/army037/army101.png"
+      },
+      {
+         "name_skin":"Soldier",
+         "install":"https://archive.org/download/army037/army102.png"
+      },
+      {
+         "name_skin":"Soldier",
+         "install":"https://archive.org/download/army037/army103.png"
+      },
+      {
+         "name_skin":"Soldier",
+         "install":"https://archive.org/download/army037/army104.png"
+      },
+      {
+         "name_skin":"Soldier",
+         "install":"https://archive.org/download/army037/army105.png"
+      },
+      {
+         "name_skin":"Soldier",
+         "install":"https://archive.org/download/army037/army106.png"
+      },
+      {
+         "name_skin":"Soldier Army Suisse",
+         "install":"https://archive.org/download/army037/army107.png"
+      },
+      {
+         "name_skin":"Soldier Rq ",
+         "install":"https://archive.org/download/army037/army108.png"
+      },
+      {
+         "name_skin":"Soldier Trainee ",
+         "install":"https://archive.org/download/army037/army109.png"
+      },
+      {
+         "name_skin":"Soldier Grave ",
+         "install":"https://archive.org/download/army037/army110.png"
+      },
+      {
+         "name_skin":"Soviet Inspired Soldier ",
+         "install":"https://archive.org/download/army037/army111.png"
+      },
+      {
+         "name_skin":"Soviet Ww Commander ",
+         "install":"https://archive.org/download/army037/army112.png"
+      },
+      {
+         "name_skin":"Soviet Raccoon ",
+         "install":"https://archive.org/download/army037/army113.png"
+      },
+      {
+         "name_skin":"Space Guy",
+         "install":"https://archive.org/download/army037/army114.png"
+      },
+      {
+         "name_skin":"Special Ops",
+         "install":"https://archive.org/download/army037/army115.png"
+      },
+      {
+         "name_skin":"Sr Higher Cavalry",
+         "install":"https://archive.org/download/army037/army116.png"
+      },
+      {
+         "name_skin":"Swat ",
+         "install":"https://archive.org/download/army037/army117.png"
+      },
+      {
+         "name_skin":"Thunder Military ",
+         "install":"https://archive.org/download/army037/army118.png"
+      },
+      {
+         "name_skin":"Nation Military Uniform Slim ",
+         "install":"https://archive.org/download/army037/army119.png"
+      },
+      {
+         "name_skin":"Tropic Military Uniform ",
+         "install":"https://archive.org/download/army037/army120.png"
+      },
+      {
+         "name_skin":"Soldier Uniform ",
+         "install":"https://archive.org/download/army037/army121.png"
+      },
+      {
+         "name_skin":"Army First ",
+         "install":"https://archive.org/download/army037/army122.png"
+      },
+      {
+         "name_skin":"Soldier ",
+         "install":"https://archive.org/download/army037/army123.png"
+      },
+      {
+         "name_skin":"Us Army Soldier ",
+         "install":"https://archive.org/download/army037/army124.png"
+      },
+      {
+         "name_skin":"Us Army Soldier ",
+         "install":"https://archive.org/download/army037/army125.png"
+      },
+      {
+         "name_skin":"Us Army Soldier ",
+         "install":"https://archive.org/download/army037/army126.png"
+      },
+      {
+         "name_skin":"Usa Soldier With Sunglasses ",
+         "install":"https://archive.org/download/army037/army127.png"
+      },
+      {
+         "name_skin":"Us Korean",
+         "install":"https://archive.org/download/army037/army128.png"
+      },
+      {
+         "name_skin":"Usmc Full Battle Rattle ",
+         "install":"https://archive.org/download/army037/army129.png"
+      },
+      {
+         "name_skin":"Us Soldier Army",
+         "install":"https://archive.org/download/army037/army130.png"
+      },
+      {
+         "name_skin":"Ussr Girl ",
+         "install":"https://archive.org/download/army037/army131.png"
+      },
+      {
+         "name_skin":"Ussr Girl ",
+         "install":"https://archive.org/download/army037/army132.png"
+      },
+      {
+         "name_skin":"Army Soldier ",
+         "install":"https://archive.org/download/army037/army133.png"
+      },
+      {
+         "name_skin":"Army Soldier",
+         "install":"https://archive.org/download/army037/army134.png"
+      },
+      {
+         "name_skin":"Winter Camouflage Soldier ",
+         "install":"https://archive.org/download/army037/army135.png"
+      },
+      {
+         "name_skin":"Winter Combat Uniform ",
+         "install":"https://archive.org/download/army037/army136.png"
+      },
+      {
+         "name_skin":"Winter Soldier ",
+         "install":"https://archive.org/download/army037/army137.png"
+      },
+      {
+         "name_skin":"Worn Uniform ",
+         "install":"https://archive.org/download/army037/army138.png"
+      },
+      {
+         "name_skin":"British Army ",
+         "install":"https://archive.org/download/army037/army139.png"
+      },
+      {
+         "name_skin":"Ww Doughboy",
+         "install":"https://archive.org/download/army037/army140.png"
+      },
+      {
+         "name_skin":"Ww Doughboy",
+         "install":"https://archive.org/download/army037/army141.png"
+      },
+      {
+         "name_skin":"Ww Asia Pacific Combat Uniform ",
+         "install":"https://archive.org/download/army037/army142.png"
+      },
+      {
+         "name_skin":"Ww British Captain ",
+         "install":"https://archive.org/download/army037/army143.png"
+      },
+      {
+         "name_skin":"Ww Soldier ",
+         "install":"https://archive.org/download/army037/army144.png"
+      },
+      {
+         "name_skin":"Ww Soviet Cavalry",
+         "install":"https://archive.org/download/army037/army145.png"
+      },
+      {
+         "name_skin":"Wwi Doughboy American Infantryman ",
+         "install":"https://archive.org/download/army037/army146.png"
+      },
+      {
+         "name_skin":"Zombie Masked Soldier ",
+         "install":"https://archive.org/download/army037/army147.png"
+      },
+      {
+         "name_skin":"Zombie Soldier",
+         "install":"https://archive.org/download/army037/army148.png"
       }
+      
+      
    ]
 }
