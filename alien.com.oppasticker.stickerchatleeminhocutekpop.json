@@ -2,13 +2,13 @@
   "Ads": [
   {
       "select_main_ads": "FACEBOOK",
-      "select_backup_ads":"APPLOVIN-M",
+      "select_backup_ads":"IRON",
       "main_ads_banner": "355876828748249_355876898748242",
       "main_ads_intertitial":"355876828748249_355876895414909",
       "main_ads_reward":"",
-      "backup_ads_banner":"dfafbaaf41f0ba32",
-      "backup_ads_intertitial":"6c3d1931f2ccbf0f",
-      "backup_ads_reward":"7f2c863935bf6181",
+      "backup_ads_banner":"DefaultBanner",
+      "backup_ads_intertitial":"DefaultInterstitial",
+      "backup_ads_reward":"DefaultRewardedVideo",
       "interval_intertitial": 1,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
