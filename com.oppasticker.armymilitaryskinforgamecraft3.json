@@ -532,21 +532,21 @@
    "Addons":[
       {
          "id":1,
-         "name_add":"Cat Plush",
-         "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
-         "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
-         "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
-         "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
-         "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+         "name_add":"",
+         "add_url":"",
+         "addB_url":"",
+         "addR_url":"",
+         "view_add":"",
+         "des_add":""
       }
    ],
    "Maps":[
       {
          "id":1,
-         "name_map":"Hello Neighbor2",
-         "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
-         "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
-         "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+         "name_map":"",
+         "map_url":"",
+         "view_map":"",
+         "des_map":""
       }
    ]
 }
