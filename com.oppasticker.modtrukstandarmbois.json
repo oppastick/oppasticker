@@ -1,0 +1,80 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"null",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+         "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
+         "backup_native_for_admob_applovin":"",
+         "backup_ads_banner":"",
+         "backup_ads_intertitial":"",
+         "interval_intertitial":3,
+         "initialize_sdk":"",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "DATA":[
+      {
+         "title":"Cuanter Chicken Tranz",
+         "image":"file:///android_asset/Cuanter Chicken Tranzss.jpg",
+         "link_mods":"https://archive.org/download/OlengMbois/Cuanter%20Chicken%20Tranz.bussidmod",
+         "link_livery":"https://archive.org/download/OlengMbois/Cuanter%20Chicken%20Tranz.png"
+      },
+      {
+         "title":"Cuenter Berkah Usaha",
+         "image":"file:///android_asset/Cuenter Berkah Usahass.jpg",
+         "link_mods":"https://archive.org/download/OlengMbois/Cuenter%20Berkah%20Usaha.bussidmod",
+         "link_livery":"https://archive.org/download/OlengMbois/Cuenter%20Berkah%20Usaha.png"
+      },
+      {
+         "title":"Cuenter Madura Asyik",
+         "image":"file:///android_asset/Cuenter Madura Asyikss.jpg",
+         "link_mods":"https://archive.org/download/OlengMbois/Cuenter%20Madura%20Asyik.bussidmod",
+         "link_livery":"https://archive.org/download/OlengMbois/Cuenter%20Madura%20Asyik.png"
+      },
+      {
+         "title":"Cuenter Public Figur",
+         "image":"file:///android_asset/Cuenter Public Figurss.jpg",
+         "link_mods":"https://archive.org/download/OlengMbois/Cuenter%20Public%20Figur.bussidmod",
+         "link_livery":"https://archive.org/download/OlengMbois/Cuenter%20Public%20Figur.png"
+      },
+      {
+         "title":"Cuenter Sanpex",
+         "image":"file:///android_asset/Cuenter Sanpexss.jpg",
+         "link_mods":"https://archive.org/download/OlengMbois/Cuenter%20Sanpex.bussidmod",
+         "link_livery":"https://archive.org/download/OlengMbois/Cuenter%20Sanpex.png"
+      },
+      {
+         "title":"Isuzi NEmErs71 Strobo",
+         "image":"file:///android_asset/Isuzi NEmErs71 Stroboss.jpg",
+         "link_mods":"https://archive.org/download/OlengMbois/Isuzi%20NEmErs71%20Strobo.bussidmod",
+         "link_livery":"mod"
+      },
+      {
+         "title":"Isuzi Special Blue",
+         "image":"file:///android_asset/Isuzi Special Bluess.jpg",
+         "link_mods":"https://archive.org/download/OlengMbois/Isuzi%20Special%20Blue.bussidmod",
+         "link_livery":"https://archive.org/download/OlengMbois/Isuzi%20Special%20Blue.png"
+      },
+      {
+         "title":"Isuzi Star Light",
+         "image":"file:///android_asset/Isuzi Star Lightss.jpg",
+         "link_mods":"https://archive.org/download/OlengMbois/Isuzi%20Star%20Light.bussidmod",
+         "link_livery":"https://archive.org/download/OlengMbois/Isuzi%20Star%20Light.png"
+      },
+      {
+         "title":"Isuzu NEmErs71 Concept Mbois",
+         "image":"file:///android_asset/Isuzu NEmErs71 Concept Mboisss.jpg",
+         "link_mods":"https://archive.org/download/OlengMbois/Isuzu%20NEmErs71%20Concept%20Mbois.bussidmod",
+         "link_livery":"https://archive.org/download/OlengMbois/Isuzu%20NEmErs71%20Concept%20Mbois.png"
+      }
+   ]
+}
