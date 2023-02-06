@@ -1,0 +1,128 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"APPLOVIN-M",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+         "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
+         "backup_native_for_admob_applovin":"",
+         "backup_ads_banner":"db4d5e8718b97d78",
+         "backup_ads_intertitial":"518cd97722c60b52",
+         "interval_intertitial":5,
+         "initialize_sdk":"107355779",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "DATA":[
+      {
+         "title":"Avant ES",
+         "image":"file:///android_asset/Avant ESss.jpg",
+         "link_mods":"https://archive.org/download/modbustingkat/Avante%20D2%20ESMod023.bussidmod",
+         "link_livery":"https://archive.org/download/modbustingkat/bristrans%20Tuan%20muda%20new%20font%20by%20Hanafi%20Hardiyan.png"
+      },
+      {
+         "title":"Bris Trans",
+         "image":"file:///android_asset/Bris Transss.jpg",
+         "link_mods":"https://archive.org/download/modbustingkat/Hino%20RK%20Varian%201.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"JB2 Full Led",
+         "image":"file:///android_asset/JB2 Full Ledss.jpg",
+         "link_mods":"https://archive.org/download/modbustingkat/JB2%20FULL%20LED%20UPDATE%20V1%20CVT%20ZoneID-1.bussidmod",
+         "link_livery":"https://archive.org/download/modbustingkat/Pandawa%20SDD%20by%20Blahbloh.png"
+      },
+      {
+         "title":"JB3 SHD Voy",
+         "image":"file:///android_asset/JB3 SHD Voyss.jpg",
+         "link_mods":"https://archive.org/download/modbustingkat/JB3%2B%20SDD%20VOYAGER%20SHARE%20BY%20JODS%20TV.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"JB3 UHD",
+         "image":"file:///android_asset/JB3 UHDss.jpg",
+         "link_mods":"https://archive.org/download/modbustingkat/jb3angga%20uhd%20dop.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"Jet Line Doubel Deck",
+         "image":"file:///android_asset/Jet Line Doubel Deckss.jpg",
+         "link_mods":"https://archive.org/download/modbustingkat/dd%20jetliner.bussidvehicle",
+         "link_livery":"null"
+      },
+      {
+         "title":"Marco Paradise",
+         "image":"file:///android_asset/Marco Paradisess.jpg",
+         "link_mods":"https://archive.org/download/modbustingkat/Marcopolo%20Paradiso%201800DD.bussidmod",
+         "link_livery":"https://archive.org/download/modbustingkat/marc_by_wesley_rhavy.png"
+      },
+      {
+         "title":"NewAvant D2",
+         "image":"file:///android_asset/NewAvant D2ss.jpg",
+         "link_mods":"https://archive.org/download/modbustingkat/AVANTE%20D2%20SHARE%20BY%20JODS%20TV.bussidmod",
+         "link_livery":"https://archive.org/download/modbustingkat/sinjay.png"
+      },
+      {
+         "title":"NewJB3 MHD",
+         "image":"file:///android_asset/NewJB3 MHDss.jpg",
+         "link_mods":"https://archive.org/download/modbustingkat/jb3angga%20mhd%20update%20full%20acc%20dop%20ring.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"NewSR2 XDD",
+         "image":"file:///android_asset/NewSR2 XDDss.jpg",
+         "link_mods":"https://archive.org/download/modbustingkat/SR2%20XDD%20SHARE%20BY%20JODS%20TV.bussidmod",
+         "link_livery":"https://archive.org/download/modbustingkat/HJ%20BY%20SARJANA%20BUSSID.png"
+      },
+      {
+         "title":"Rossyin Sdd Detail Full Lampu",
+         "image":"file:///android_asset/Rossyin Sdd Detail Full Lampuss.jpg",
+         "link_mods":"https://archive.org/download/modbustingkat/sdd3%20voyager%20winglet.bussidmod",
+         "link_livery":"https://archive.org/download/modbustingkat/Rosin%20SDD%20MDC%20by%20Blahbloh.png"
+      },
+      {
+         "title":"SDD 4 Axle",
+         "image":"file:///android_asset/SDD 4 Axless.jpg",
+         "link_mods":"https://archive.org/download/modbustingkat/JB2%2B%20Sdd%204%20Axle%20Volvo%20B11R.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"SDDVoyaj",
+         "image":"file:///android_asset/SDDVoyajss.jpg",
+         "link_mods":"https://archive.org/download/modbustingkat/SDDVoyager.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"Nuswantoro SDD Full anim",
+         "image":"file:///android_asset/Sinjay SDD Full animss.jpg",
+         "link_mods":"https://archive.org/download/modbustingkat/SRIKANDI%20SDD.bussidmod",
+         "link_livery":"https://archive.org/download/modbustingkat/Livery%20SR2%20XHD%20Sinjay%20By.%20WG.png"
+      },
+      {
+         "title":"Sky Land SDD Full anim",
+         "image":"file:///android_asset/Sky Land SDD Full animss.jpg",
+         "link_mods":"https://archive.org/download/modbustingkat/MDO%20SKYLANDER%20SHD%20BY%20KODHEL%20GAMING.bussidmod",
+         "link_livery":"https://archive.org/download/modbustingkat/SDD%20VOYAGER%20-%20ROSALIA%20INDAH.png"
+      },
+      {
+         "title":"SR2 XDD Old Version",
+         "image":"file:///android_asset/SR2 XDD Old Versionss.jpg",
+         "link_mods":"https://archive.org/download/modbustingkat/SR2%20SDD%20by%20ZTOM%20V3.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"SR2 XHD Plus Crew",
+         "image":"file:///android_asset/SR2 XHD Plus Crewss.jpg",
+         "link_mods":"https://archive.org/download/modbustingkat/SR2%20XHD%20PRIME%20WITH%20CREW.bussidmod",
+         "link_livery":"https://archive.org/download/modbustingkat/XDD%20Agra%20Mas%20Maroon.png"
+      }
+   ]
+}

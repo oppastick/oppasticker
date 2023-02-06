@@ -1,0 +1,173 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"null",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+         "main_native_ads_Admob_or_applovin":"",
+         "main_ads_rewards":"",
+         "backup_native_ads_Admob_or_applovin":"",
+         "backup_ads_banner":"db4d5e8718b97d78",
+         "backup_ads_intertitial":"518cd97722c60b52",
+         "backup_ads_rewards":"",
+         "interval_intertitial":5,
+         "initialize_sdk":"107355779",
+         "initialize_sdk_backup_ads":"",
+         "survey_api_key":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "DATA":[
+      {
+         "id":1,
+         "category":"GOPRAK",
+         "title":"Cuntar Lama",
+         "image":"file:///android_asset/Cuntar Lamass.jpg",
+         "link_mods":"https://archive.org/download/trukgoprak/Cuntar%20Lama.bussidvehicle",
+         "link_livery":"null"
+      },
+      {
+         "id":2,
+         "category":"GOPRAK",
+         "title":"Goprak Engkel",
+         "image":"file:///android_asset/Goprak Engkelss.jpg",
+         "link_mods":"https://archive.org/download/trukgoprak/Goprak%20Engkel.bussidmod",
+         "link_livery":"https://archive.org/download/trukgoprak/Goprak%20Engkel.png"
+      },
+      {
+         "id":3,
+         "category":"GOPRAK",
+         "title":"Hainoh Ranggers Special",
+         "image":"file:///android_asset/Hainoh Ranggers Specialss.jpg",
+         "link_mods":"https://archive.org/download/trukgoprak/Hainoh%20Ranggers%20Special.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":4,
+         "category":"GOPRAK",
+         "title":"Mersi Bagong 4X2",
+         "image":"file:///android_asset/Mersi Bagong 4X2ss.jpg",
+         "link_mods":"https://archive.org/download/trukgoprak/Mersi%20Bagong%204X2.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":5,
+         "category":"GOPRAK",
+         "title":"Mersi Bagong Beton",
+         "image":"file:///android_asset/Mersi Bagong Betonss.jpg",
+         "link_mods":"https://archive.org/download/trukgoprak/Mersi%20Bagong%20Beton.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":6,
+         "category":"GOPRAK",
+         "title":"Mersi Bagong Derek",
+         "image":"file:///android_asset/Mersi Bagong Derekss.jpg",
+         "link_mods":"https://archive.org/download/trukgoprak/Mersi%20Bagong%20Derek.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":7,
+         "category":"GOPRAK",
+         "title":"Mersi Bak Besi",
+         "image":"file:///android_asset/Mersi Bak Besiss.jpg",
+         "link_mods":"https://archive.org/download/trukgoprak/Mersi%20Bak%20Besi.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":8,
+         "category":"GOPRAK",
+         "title":"Mersi Engkel Kayu",
+         "image":"file:///android_asset/Mersi Engkel Kayuss.jpg",
+         "link_mods":"https://archive.org/download/trukgoprak/Mersi%20Engkel%20Kayu.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":9,
+         "category":"GOPRAK",
+         "title":"Mersi Los Bak",
+         "image":"file:///android_asset/Mersi Los Bakss.jpg",
+         "link_mods":"https://archive.org/download/trukgoprak/Mersi%20Los%20Bak.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":10,
+         "category":"GOPRAK",
+         "title":"Nisson Goprak Terpal Segtiga",
+         "image":"file:///android_asset/Nisson Goprak Terpal Segtigass.jpg",
+         "link_mods":"https://archive.org/download/trukgoprak2/Nisson%20Goprak%20Terpal%20Segtiga.bussidmod",
+         "link_livery":"https://archive.org/download/trukgoprak2/Nisson%20Goprak%20Terpal%20Segtiga.png"
+      },
+      {
+         "id":11,
+         "category":"GOPRAK",
+         "title":"Pusho Balok Kayu",
+         "image":"file:///android_asset/Pusho Balok Kayuss.jpg",
+         "link_mods":"https://archive.org/download/trukgoprak2/Pusho%20Balok%20Kayu.bussidmod",
+         "link_livery":"https://archive.org/download/trukgoprak2/Pusho%20Balok%20Kayu.png"
+      },
+      {
+         "id":12,
+         "category":"GOPRAK",
+         "title":"Pusho Goprak Dump",
+         "image":"file:///android_asset/Pusho Goprak Dumpss.jpg",
+         "link_mods":"https://archive.org/download/trukgoprak2/Pusho%20Goprak%20Dump.bussidmod",
+         "link_livery":"https://archive.org/download/trukgoprak2/Pusho%20Goprak%20Dump.png"
+      },
+      {
+         "id":13,
+         "category":"GOPRAK",
+         "title":"Pusho Goprak SBN Cargo",
+         "image":"file:///android_asset/Pusho Goprak SBN Cargoss.jpg",
+         "link_mods":"https://archive.org/download/trukgoprak2/Pusho%20Goprak%20SBN%20Cargo.bussidmod",
+         "link_livery":"https://archive.org/download/trukgoprak2/Pusho%20Goprak%20SBN%20Cargo.png"
+      },
+      {
+         "id":14,
+         "category":"GOPRAK",
+         "title":"Pusho Tangki CPO C30",
+         "image":"file:///android_asset/Pusho Tangki CPO C30ss.jpg",
+         "link_mods":"https://archive.org/download/trukgoprak2/Pusho%20Tangki%20CPO%20C30.bussidmod",
+         "link_livery":"https://archive.org/download/trukgoprak2/Pusho%20Tangki%20CPO%20C30.png"
+      },
+      {
+         "id":15,
+         "category":"GOPRAK",
+         "title":"Pusho Umplung Setengah Terpal",
+         "image":"file:///android_asset/Pusho Umplung Setengah Terpalss.jpg",
+         "link_mods":"https://archive.org/download/trukgoprak2/Pusho%20Umplung%20Setengah%20Terpal.bussidmod",
+         "link_livery":"https://archive.org/download/trukgoprak2/Pusho%20Umplung%20Setengah%20Terpal.png"
+      },
+      {
+         "id":16,
+         "category":"GOPRAK",
+         "title":"SiBenz Bagong",
+         "image":"file:///android_asset/SiBenz Bagongss.jpg",
+         "link_mods":"https://archive.org/download/trukgoprak2/SiBenz%20Bagong.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":17,
+         "category":"GOPRAK",
+         "title":"Umplung Tronton",
+         "image":"file:///android_asset/Umplung Trontonss.jpg",
+         "link_mods":"https://archive.org/download/trukgoprak2/Umplung%20Tronton%20Modif.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":18,
+         "category":"GOPRAK",
+         "title":"Umplung Tronton Modif",
+         "image":"file:///android_asset/Umplung Tronton Modifss.jpg",
+         "link_mods":"https://archive.org/download/trukgoprak2/Umplung%20Tronton.bussidmod",
+         "link_livery":"null"
+      }
+   ]
+}
