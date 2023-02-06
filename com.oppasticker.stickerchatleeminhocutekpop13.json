@@ -110,7 +110,7 @@
 	{
       "id": "4",
       "name": "LeeMinHoSticker",
-      "folder_link":"file:///android_asset/3/",
+      "folder_link":"file:///android_asset/4/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -136,7 +136,7 @@
 	{
       "id": "5",
       "name": "LeeMinHoSticker",
-      "folder_link":"file:///android_asset/3/",
+      "folder_link":"file:///android_asset/5/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -162,7 +162,7 @@
 	{
       "id": "6",
       "name": "LeeMinHoSticker",
-      "folder_link":"file:///android_asset/3/",
+      "folder_link":"file:///android_asset/6/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -183,7 +183,7 @@
         {
           "image_file": "06.webp"
         },
-		{
+	{
           "image_file": "07.webp"
         }
       ]
