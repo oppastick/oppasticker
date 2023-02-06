@@ -1,0 +1,116 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"APPLOVIN-M",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+         "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
+         "backup_native_for_admob_applovin":"",
+         "backup_ads_banner":"db4d5e8718b97d78",
+         "backup_ads_intertitial":"518cd97722c60b52",
+         "interval_intertitial":5,
+         "initialize_sdk":"107355779",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "DATA":[
+      {
+         "title":"Engkel Gayor Sulawesi",
+         "image":"file:///android_asset/Engkel Gayor Sulawesiss.jpg",
+         "link_mods":"https://archive.org/download/modtruksulawesi/fuso%20s.bussidmod",
+         "link_livery":"https://ia801508.us.archive.org/6/items/modtruksulawesi/2.png"
+      },
+      {
+         "title":"Hai no Besi Sulawesi",
+         "image":"file:///android_asset/Hai no Besi Sulawesiss.jpg",
+         "link_mods":"https://archive.org/download/modtruksulawesi/MOD%20DUTRO%20SULAWESI%20MUATAN%20PIPA%20BESI.bussidmod",
+         "link_livery":"https://archive.org/download/modtruksulawesi/Nissa%20sabyan.png"
+      },
+      {
+         "title":"Hai no Semen Curah Sulawesi",
+         "image":"file:///android_asset/Hai no Semen Curah Sulawesiss.jpg",
+         "link_mods":"https://archive.org/download/modtruksulawesi/hino%20curah%20sulawesi.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"Hai no Sulawesi Non Muatan",
+         "image":"file:///android_asset/Hai no Sulawesi Non Muatanss.jpg",
+         "link_mods":"https://archive.org/download/modtruksulawesi/Iksan%20jaya.bussidmod",
+         "link_livery":"https://archive.org/download/modtruksulawesi/Hino%20500%20Khas%20Sulawesi%20by%20GAG%20Official.png"
+      },
+      {
+         "title":"Isusi 71 Sulawesi Gayor",
+         "image":"file:///android_asset/Isusi 71 Sulawesi Gayorss.jpg",
+         "link_mods":"https://archive.org/download/modtruksulawesi/NMR%20SULAWESI%20119CONCEPT%20VARIAN%20MUATAN.bussidmod",
+         "link_livery":"https://archive.org/download/modtruksulawesi/PicsArt_09-21-02.17.22.png"
+      },
+      {
+         "title":"Isusi 71 Sulawesi Muat Coral",
+         "image":"file:///android_asset/Isusi 71 Sulawesi Muat Coralss.jpg",
+         "link_mods":"https://archive.org/download/modtruksulawesi/NMR%20DUMP.bussidmod",
+         "link_livery":"https://archive.org/download/modtruksulawesi/Isuzu%20Giga%20Dump%20Sulawesi%20by%20GAG%20Official.png"
+      },
+      {
+         "title":"Isusi 71 Sulawesi Non Muatan",
+         "image":"file:///android_asset/Isusi 71 Sulawesi Non Muatanss.jpg",
+         "link_mods":"https://archive.org/download/modtruksulawesi/NMR%20SULAWESI%20119CONCEPT%20VARIAN%20KOSONGAN.bussidmod",
+         "link_livery":"https://archive.org/download/modtruksulawesi/livery%20by%20aldy04.png"
+      },
+      {
+         "title":"Isusi G Sulawesi Mbois",
+         "image":"file:///android_asset/Isusi G Sulawesi Mboisss.jpg",
+         "link_mods":"https://archive.org/download/modtruksulawesi/GIGA%20SULAWESI.bussidmod",
+         "link_livery":"https://archive.org/download/modtruksulawesi/livery.png"
+      },
+      {
+         "title":"NKRI 71 Sulawesi",
+         "image":"file:///android_asset/NKRI 71 Sulawesiss.jpg",
+         "link_mods":"https://archive.org/download/modtruksulawesi/NMR71%20Levis%20Gayor.bussidmod",
+         "link_livery":"https://archive.org/download/modtruksulawesi/PicsArt_11-21-03.35.20.png"
+      },
+      {
+         "title":"Shanter Sulawesi Bak Air Gayor",
+         "image":"file:///android_asset/Shanter Sulawesi Bak Air Gayorss.jpg",
+         "link_mods":"https://archive.org/download/modtruksulawesi/Canter%20Variant%20Bak%20Air.bussidmod",
+         "link_livery":"https://archive.org/download/modtruksulawesi/RED%20SULAWESI%20BY%20RIAN%20GAMING.png"
+      },
+      {
+         "title":"Shanter Sulawesi Beras Gayor",
+         "image":"file:///android_asset/Shanter Sulawesi Beras Gayorss.jpg",
+         "link_mods":"https://archive.org/download/modtruksulawesi/Canter%20Variant%20Beras.bussidmod",
+         "link_livery":"https://archive.org/download/modtruksulawesi/Livery%20Test-picsay.png"
+      },
+      {
+         "title":"Shanter Sulawesi Full Strobo",
+         "image":"file:///android_asset/Shanter Sulawesi Full Stroboss.jpg",
+         "link_mods":"https://archive.org/download/modtruksulawesi/CANTER%20SULAWESI%20BUDESIGN.bussidmod",
+         "link_livery":"https://archive.org/download/modtruksulawesi/khas%20sulawesi.png"
+      },
+      {
+         "title":"Shanter Sulawesi Gayor",
+         "image":"file:///android_asset/Shanter Sulawesi Gayorss.jpg",
+         "link_mods":"https://archive.org/download/modtruksulawesi/MOD%20CANTER%20FOREVER%20VERSI%20BETA%20BY%20DAENG%20MUANG%20ID.bussidmod",
+         "link_livery":"https://archive.org/download/modtruksulawesi/PicsArt_08-29-03.54.32.png"
+      },
+      {
+         "title":"Shanter Sulawesi Non Muatan",
+         "image":"file:///android_asset/Shanter Sulawesi Non Muatanss.jpg",
+         "link_mods":"https://archive.org/download/modtruksulawesi/Canter%20Forever%20Non%20Muatan.bussidmod",
+         "link_livery":"https://archive.org/download/modtruksulawesi/Livery%20Canter%20Forever%20By%20Ipk%20Project.png"
+      },
+      {
+         "title":"Shanter Sulawesi Overload",
+         "image":"file:///android_asset/Shanter Sulawesi Overloadss.jpg",
+         "link_mods":"https://archive.org/download/modtruksulawesi/Canter%20Forever%20Muatan.bussidmod",
+         "link_livery":"https://archive.org/download/modtruksulawesi/Livery%20Canter%20Forever%20By%20Ipk%20Project.png"
+      }
+   ]
+}
